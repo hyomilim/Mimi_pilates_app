@@ -8,7 +8,7 @@ st.title("🧘 Mimi Pilates")
 st.subheader("Movement is life. Life is movement.")
 
 # (선택) 로고 이미지가 있다면 주소를 넣을 수 있어요. 일단 샘플 이미지를 띄워볼게요.
-st.image("https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&q=80&w=500", caption="오늘도 건강한 하루 되세요!")
+st.image("logo.png", caption="Official Email: stott.mimi@gmail.com")
 
 st.divider() # 구분선
 
